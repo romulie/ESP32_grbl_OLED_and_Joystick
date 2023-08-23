@@ -1,4 +1,4 @@
-# ESP32_grbl_OLED_and_Joystick
+# ESP32_grbl_i2C_OLED_and_XY_Joystick_control
 This version of Grbl_Esp32 CNC contains I2C OLED display (shows current coordinates and delta step value)
 and x-y joystick w\pushbutton (controls 2d-cnc table)
 
